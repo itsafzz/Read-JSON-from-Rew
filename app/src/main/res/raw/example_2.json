@@ -1,0 +1,2 @@
+val data="sport -> $sport\nTitle$title\n"
+val previousData= textView2.text
